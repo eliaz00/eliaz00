@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://drive.google.com/file/d/1nkbgyZQ4UT9gosmWaLY6ZykvPmHvT2xI/view?usp=drive_link"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://github.com/eliaz00/eliaz00/blob/main/Samuel-programmer.png"></a>
 </p>
 <br>
 
