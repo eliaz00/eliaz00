@@ -52,6 +52,7 @@
 <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'>
 <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg'>
 <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'>
 </div>
 <br>
 
