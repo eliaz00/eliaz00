@@ -19,7 +19,7 @@
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+---
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I am currently studying Computer Science and Mathematics as a self-taught student.\
 🌱 &nbsp;Learning about Systems Design and Cloud Architecture.\
@@ -30,15 +30,41 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-<div>	
+---
+### Programming languages:
+<div>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+</div>
+
+### Frontend development:
+<div>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg'>
 <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg'>
-<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'/>
 </div>
+
+### Misc tools:
+<div>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg'>
+</div>
+<br>
+
+### Frameworks: 
+<div>
+<img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg'>
+</div>
+
+### Databases:
+<div>
+<img width ='80px' src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg'>
+</div>
+
+
 
 
