@@ -59,6 +59,7 @@
 ### Frameworks: 
 <div>
 <img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg'>
+<img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg'>
 </div>
 
 ### Databases:
