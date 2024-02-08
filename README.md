@@ -33,7 +33,7 @@
 ---
 ### Programming languages:
 <div>
-<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 </div>
 
