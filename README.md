@@ -41,7 +41,7 @@
 <div>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'>
 <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'/>
 </div>
